@@ -21,6 +21,10 @@ A versatile Windows macro/auto-clicker application to record and automate user a
 
 To download the latest runnable `.exe` version, please visit the **[Releases](https://github.com/Beodulf/AutoAction/releases/tag/Yayın)** section on the right side of this page.
 
+## IMPORTANT NOTE
+
+Windows may remove or fail to open the application as a false positive. This is a bug, and I'm working on fixing it. If you upload it on Virus Total, you'll see that it's marked as safe by trusted sources.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -45,7 +49,12 @@ Kullanıcı eylemlerini kaydedip otomatikleştiren, gelişmiş özelliklere sahi
 
 Programın en güncel, çalıştırılabilir `.exe` versiyonunu indirmek için bu sayfanın sağ tarafındaki **[Releases](https://github.com/Beodulf/AutoAction/releases/tag/Yayın)** bölümünü ziyaret edebilirsiniz.
 
+## ÖNEMLİ NOT
+
+Windows false positive olarak uygulamayı kaldırabilir yada açmayabilir. Bu bir hatadır ve düzeltmeye çalışıyorum. Virüs total'de yüklerseniz göreceksiniz ki güvenilir yerlerden güvenli diye not alıyor.
+
 ## Lisans
 
 Bu proje, [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+
 

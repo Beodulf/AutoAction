@@ -1,6 +1,6 @@
 # OtoEylem v1.1
 
-A versatile Windows macro/auto-clicker application to record and automate user actions. This application was developed with the assistance of Gemini AI.
+A versatile Windows macro/auto-clicker application to record and automate user actions. 
 
 **[Türkçe Açıklama İçin Aşağı Kaydırın](#türkçe-açıklama)**
 
@@ -19,7 +19,7 @@ A versatile Windows macro/auto-clicker application to record and automate user a
 
 ## How to Download
 
-To download the latest runnable `.exe` version, please visit the **[Releases](link_gelecek)** section on the right side of this page.
+To download the latest runnable `.exe` version, please visit the **[Releases](https://github.com/Beodulf/AutoAction/releases/tag/Yayın)** section on the right side of this page.
 
 ## License
 
@@ -29,7 +29,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Türkçe Açıklama
 
-Kullanıcı eylemlerini kaydedip otomatikleştiren, gelişmiş özelliklere sahip bir Windows makro/otomatik tıklayıcı uygulamasıdır. Bu uygulama, Gemini AI yardımıyla geliştirilmiştir.
+Kullanıcı eylemlerini kaydedip otomatikleştiren, gelişmiş özelliklere sahip bir Windows makro/otomatik tıklayıcı uygulamasıdır. 
 
 ## Özellikler
 
@@ -43,8 +43,9 @@ Kullanıcı eylemlerini kaydedip otomatikleştiren, gelişmiş özelliklere sahi
 
 ## Nasıl İndirilir?
 
-Programın en güncel, çalıştırılabilir `.exe` versiyonunu indirmek için bu sayfanın sağ tarafındaki **[Releases](link/gelecek)** bölümünü ziyaret edebilirsiniz.
+Programın en güncel, çalıştırılabilir `.exe` versiyonunu indirmek için bu sayfanın sağ tarafındaki **[Releases](https://github.com/Beodulf/AutoAction/releases/tag/Yayın)** bölümünü ziyaret edebilirsiniz.
 
 ## Lisans
 
-Bu proje, [MIT Lisansı](LICENSE) altında lisanslanmıştır.```
+Bu proje, [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+
